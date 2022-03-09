@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Request doc changes through email
-    url: mailto:ng-doccomments@netapp.com
-    about: Need to share sensitive info? Send us an email instead.
-  - name: Request changes to the product
-    url: https://mysupport.netapp.com
-    about: Share your feedback about the product itself.
